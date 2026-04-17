@@ -1,0 +1,13 @@
+customer_id,age,gender,spending_score,city,income,income_group,segment
+1,22,Male,70,Hyderabad,30000,Low,Medium Value
+2,25,Female,80,Bangalore,40000,Medium,High Value
+3,30,Male,60,Chennai,35000,Medium,Medium Value
+4,28,Female,90,Hyderabad,50000,High,High Value
+5,35,Male,50,Bangalore,45000,Medium,Low Value
+6,40,Male,65,Chennai,30000,Low,Medium Value
+7,23,Female,85,Hyderabad,42000,Medium,High Value
+8,29,Female,75,Bangalore,38000,Medium,Medium Value
+9,32,Male,55,Chennai,36000,Medium,Low Value
+10,27,Female,95,Hyderabad,52000,High,High Value
+11,31,Male,68,Bangalore,41000,Medium,Medium Value
+12,26,Female,88,Chennai,47000,High,High Value

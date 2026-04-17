@@ -1,0 +1,13 @@
+customer_id,age,gender,spending_score,city,income
+1,22,Male,70,Hyderabad,30000
+2,25,Female,80,Bangalore,40000
+3,30,Male,60,Chennai,35000
+4,28,Female,90,Hyderabad,50000
+5,35,Male,50,Bangalore,45000
+6,40,Male,65,Chennai,30000
+7,23,Female,85,Hyderabad,42000
+8,29,Female,75,Bangalore,38000
+9,32,Male,55,Chennai,36000
+10,27,Female,95,Hyderabad,52000
+11,31,Male,68,Bangalore,41000
+12,26,Female,88,Chennai,47000
